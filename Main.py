@@ -1,4 +1,3 @@
 print("hello worlsd!")
-print(gogogogo)
-a = 1
-print(a)
+print()
+a = 123142
